@@ -1,0 +1,29 @@
+Abilities:
+Upload: Exile target card face-up. It has "Download" as long as it is in exile. Chose and discard an uploaded card while you have more than 7 uploaded cards.
+Download: Pay {2}, then put this card in your hand.
+Host: Search your library for a card. Upload this card.
+
+Land (24):
+8x Island
+4x Cloud <adds 1 capa to uploaded cards>
+4x Server Farm <{b} or {2} for uploaded cards>
+4x Research Facility <{b} or {T} scry 1, then all players upload 1>
+4x SuperComputer <pay {4}, adds {b} for each uploaded card you own>
+
+Instants (8):
+4x Virtual Reality <upload target creature>
+4x Firewall <upload target>
+4x Instantiate <shadow-clone target>
+
+Sorcery (4):
+4x Back Door <{x}, search card cost {2x} in any graveyard - upload it>
+
+Enchantments (16):
+4x ForkBomb Virus <2{b} removes 1 capa upload; when upload, Host 1>
+4x Freeze Virus <4{b} tap 1 creature creature; when upload, Host 1>
+4x Grid Lock Virus <{x} target can't change zone; when upload, Host 1>
+4x Domineer <{2}b Control target as long as you control a data processor>
+
+Creatures (8):
+4x Data Processor <1/3 {1}{b} target/both player uploads a card>
+4x Server Saboteur <1/2 {b} can't be blocked by enchanted players>
